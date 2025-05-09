@@ -1,0 +1,37 @@
+name: Latest Images HWE
+on:
+  merge_group:
+  pull_request:
+    branches:
+      - main
+      - testing
+    paths-ignore:
+      - "**.md"
+      - "build_files/iso/**"
+      - ".github/workflows/*iso*"
+  # schedule:
+  #   - cron: "50 4 * * *" # 4:50 UTC All
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  build-image-latest:
+    name: Build Latest Images
+    uses: ./.github/workflows/reusable-build.yml
+    secrets: inherit
+    strategy:
+      fail-fast: false
+      matrix:
+        brand_name: ["silver-ublue2"]
+    with:
+      image_flavors: '["hwe", "hwe-nvidia", "hwe-nvidia-open"]'
+      brand_name: ${{ matrix.brand_name }}
+      stream_name: latest
+
+  # generate-release:
+  #   name: Generate Release
+  #   needs: [build-image-latest]
+  #   secrets: inherit
+  #   uses: ./.github/workflows/generate-release.yml
+  #   with:
+  #     stream_name: '["latest"]'
