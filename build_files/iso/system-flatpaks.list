@@ -1,0 +1,134 @@
+org.gtk.Gtk3theme.adw-gtk3
+org.gtk.Gtk3theme.adw-gtk3-dark
+com.github.johnfactotum.Foliate # Foliate (eBook Reader)
+com.mattjakeman.ExtensionManager
+# dev.geopjr.Calligraphy # ASCII graphics text
+io.github.input_leap.input-leap # Share keyboard / mouse
+io.github.nozwock.Packet
+org.gnome.baobab # Disk Usage Analyzer
+org.gnome.Calculator
+org.gnome.Calendar
+org.gnome.Characters
+org.gnome.clocks
+org.gnome.Connections
+org.gnome.Contacts
+org.gnome.FileRoller
+org.gnome.Firmware
+org.gnome.font-viewer
+org.gnome.Logs
+org.gnome.Loupe # Image Viewer
+org.gnome.Maps
+org.gnome.meld # Merge Text
+org.gnome.Mines
+org.gnome.NautilusPreviewer # Sushi
+org.gnome.NetworkDisplays
+org.gnome.Papers # PDF / Document Viewer
+org.gnome.Showtime # Media Player
+org.gnome.SimpleScan # Document Scanner
+org.gnome.Snapshot # Camera
+org.gnome.Sudoku
+org.gnome.TextEditor
+org.gnome.Weather
+page.tesk.Refine
+### System Apps
+app.drey.KeyRack
+com.github.tchx84.Flatseal # Flatpak Permission Manager
+# eu.nokun.MirrorHall # Network screen sharing
+io.github.flattool.Ignition
+io.github.flattool.Warehouse
+page.tesk.Refine
+# io.github.prateekmedia.appimagepool # AppImage Installer
+io.gitlab.adhami3310.Impression # Media Writer
+io.missioncenter.MissionCenter
+org.cockpit_project.CockpitClient
+org.gnome.DejaDup # Backups
+sh.loft.devpod # Dev codespaces
+org.gnome.World.PikaBackup
+### Web Browsers
+# com.brave.Browser # Brave
+com.google.Chrome
+# com.microsoft.Edge
+# com.opera.Opera
+com.vivaldi.Vivaldi
+org.gnome.Epiphany # GNOME Web
+org.mozilla.firefox
+re.sonny.Junction
+re.sonny.Tangram
+### Communications
+dev.geopjr.Tuba # Mastodon
+im.dino.Dino # XMPP Client
+# org.gnome.Calls # SIP / Element Client
+org.gnome.Fractal # Element Client
+org.signal.Signal
+### Gaming
+# com.heroicgameslauncher.hgl # Heroic Games Launcher
+com.usebottles.bottles
+com.valvesoftware.Steam
+com.valvesoftware.Steam.Utility.steamtinkerlaunch
+# de.hummdudel.Libellus # D&D rules
+net.davidotek.pupgui2 # Proton Updater for Steam
+# org.freedesktop.Platform.VulkanLayer.gamescope//24.08
+# org.freedesktop.Platform.VulkanLayer.MangoHud//24.08
+xyz.armcord.ArmCord # Discord
+### Media
+com.github.geigi.cozy # Nature/White Noise Sounds
+com.github.KRTirtho.Spotube # Spotify / YouTube Music Player
+com.github.neithern.g4music # Gapless
+de.haeckerfelix.Shortwave # Internet Radio
+# de.schmidhuberj.tubefeeder # YouTube Client
+io.freetubeapp.FreeTube # YouTube Client
+io.github.Pithos # Pandora Client
+org.gnome.Decibels # Audio Player
+org.videolan.VLC # Media Player
+# tv.kodi.Kodi
+### Office
+com.calibre_ebook.calibre # eBook Editor
+com.github.IsmaelMartinez.teams_for_linux
+com.slack.Slack
+com.toolstack.Folio # Markdown Notes
+com.vixalien.sticky
+io.github.mrvladus.List # ToDos
+md.obsidian.Obsidian
+me.proton.Mail
+me.proton.Pass
+org.libreoffice.LibreOffice
+# org.mozilla.Thunderbird
+# org.onlyoffice.desktopeditors # OnlyOffice
+org.standardnotes.standardnotes
+re.sonny.Eloquent
+us.zoom.Zoom
+### Development
+ca.desrt.dconf-editor
+dev.zed.Zed
+io.github.dvlv.boxbuddyrs # Container Manager
+io.podman_desktop.PodmanDesktop
+org.gnome.Boxes # Simple VM Manager
+org.gnome.Builder # Gnome IDE
+re.sonny.Commit # Text Editor
+re.sonny.Workbench # GTK4/libadwaita
+### Graphics
+com.github.maoschanz.drawing
+com.github.PintaProject.Pinta
+# org.darktable.Darktable
+org.gimp.GIMP
+# org.inkscape.Inkscape
+# org.kde.krita
+### Media Production
+fr.handbrake.ghb # Handbrake
+org.audacityteam.Audacity
+org.gnome.gitlab.YaLTeR.VideoTrimmer
+# org.kde.kdenlive
+# org.olivevideoeditor.Olive
+# org.pitivi.Pitivi
+### Streaming
+# com.feaneron.Boatswain # Boatswain for Streamdeck
+# com.obsproject.Studio # OBS Studio
+# com.obsproject.Studio.OBSVkCapture # VkCapture (OBS)
+# com.obsproject.Studio.Plugin.Gstreamer # Gstreamer (OBS)
+# com.obsproject.Studio.Plugin.GStreamerVaapi # Gstreamer VAAPI (OBS)
+### Utilities
+# com.ekonomikas.merkato # Stock Tracker
+com.protonvpn.www # Proton VPN
+de.haeckerfelix.Fragments # Bittorrent Client
+# org.keepassxc.KeePassXC
+xyz.safeworlds.hiit # Exercise Timer
